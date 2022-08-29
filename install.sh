@@ -61,7 +61,7 @@ termux-open-url https://www.facebook.com/profile.php?id=100043316096491
 
 echo "
 
-▁▂▄▅▆▇█  𝗛𝗘𝗔𝗥 𝗪𝗘 𝗚𝗢  █▇▆▅▄▂▁
-▁▂▄▅▆▇█  𝐈𝐍𝐒𝐓𝐀𝐋𝐋 𝐃𝐎𝐍𝐄  █▇▆▅▄▂▁
-▁▂▄▅▆▇█  𝙽𝙾𝚆 𝚃𝚈𝙿𝙴 [  BD TASLA TEAM  ] █▇▆▅▄▂▁
-▁▂▄▅▆▇█  THANKS FOR TEST MY TEST TOOLS  █▇▆▅▄▂▁" | lolcat
+▁▂▄▅▆▇█  𝗛𝗘𝗔𝗥 𝗪𝗘 𝗚𝗢 🥰  █▇▆▅▄▂▁
+▁▂▄▅▆▇█  ITS WORKING BABE 😘  █▇▆▅▄▂▁
+▁▂▄▅▆▇█ [  BD TASLA TEAM  ] █▇▆▅▄▂▁
+▁▂▄▅▆▇█  💋THANKS FOR TEST MY TEST TOOLS💋  █▇▆▅▄▂▁" | lolcat
