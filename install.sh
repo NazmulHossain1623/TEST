@@ -63,5 +63,5 @@ echo "
 
 ▁▂▄▅▆▇█  𝗛𝗘𝗔𝗥 𝗪𝗘 𝗚𝗢  █▇▆▅▄▂▁
 ▁▂▄▅▆▇█  𝐈𝐍𝐒𝐓𝐀𝐋𝐋 𝐃𝐎𝐍𝐄  █▇▆▅▄▂▁
-▁▂▄▅▆▇█  𝙽𝙾𝚆 𝚃𝚈𝙿𝙴 [  NAZMUL HOSSAIN.py  ] █▇▆▅▄▂▁
-▁▂▄▅▆▇█  PRESS ENTER  █▇▆▅▄▂▁" | lolcat
+▁▂▄▅▆▇█  𝙽𝙾𝚆 𝚃𝚈𝙿𝙴 [  BD TASLA TEAM  ] █▇▆▅▄▂▁
+▁▂▄▅▆▇█  THANKS FOR TEST MY TEST TOOLS  █▇▆▅▄▂▁" | lolcat
